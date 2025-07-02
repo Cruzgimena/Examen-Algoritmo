@@ -5,20 +5,8 @@ Este repositorio contiene la resolución del **Examen de Algoritmo** correspondi
 
 ## Contenido
 
-- `ejercicios.pse`: Contar cuántos elementos son mayores que un valor en una matriz.
--
-
-## Tecnologías usadas
-
-- Lenguaje: **PSeInt**
-- Tipo de ejercicios: **Algoritmos con estructuras condicionales, bucles, arreglos bidimensionales y funciones**
-
-## Objetivos del examen
-
-- Aplicar conocimientos sobre estructuras de control.
-- Usar funciones y subprocesos correctamente.
-- Manipular arreglos bidimensionales.
-- Resolver problemas algorítmicos básicos.
+- ejercicios2 :Agenda_de_contactos
+- ejercicio 3 :Caja_Registradora
 
 ## Fecha del examen
 02/07/25
