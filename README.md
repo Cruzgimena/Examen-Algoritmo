@@ -5,11 +5,8 @@ Este repositorio contiene la resolución del **Examen de Algoritmo** correspondi
 
 ## Contenido
 
-- `ejercicio1.pse`: Contar cuántos elementos son mayores que un valor en una matriz.
-- `ejercicio2.pse`: Buscar un número en una matriz y mostrar sus coordenadas.
-- `ejercicio3.pse`: [Descripción del ejercicio 3 si aplica].
-- `ejercicio4.pse`: [Descripción del ejercicio 4 si aplica].
-- `ejercicio5.pse`: Calcular la suma total de los elementos de una matriz 3x3.
+- `ejercicios.pse`: Contar cuántos elementos son mayores que un valor en una matriz.
+-
 
 ## Tecnologías usadas
 
